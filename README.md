@@ -25,7 +25,7 @@ Step-by-step guide to set up the project locally.
 
 
 # 1. Clone the repository
-git clone https://github.com/rozakudabay/DailyTaskPlanner_15P.git
+git clone https://github.com/rozakudabayy/DailyTaskPlanner_15P.git
 # 2. Navigate into the project directory
 cd DailyTaskPlanner_15P
 # 3. Install dependencies
